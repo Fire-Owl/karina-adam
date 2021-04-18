@@ -1,3 +1,16 @@
+<div class="bg-footer">
+   <a href="">Contactez-nous</a>
+   <a href="">Blog promo 68</a>
+   <a href="">Access Code School</a>
+   <a href="">Haut de page</a>
+   <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
+   <a href="">Mentions légales</a>
+   <img src="assets/images/Facebook.png" alt="logo facebook">
+   <img src="assets/images/insta.png" alt="logo instagram">
+   <img src="assets/images/twitter.png" alt="logo twitter"> 
+
+</div>
+
 
 
 

@@ -18,8 +18,29 @@
 
 .nav-link{
     font-family: "Circular Std Book"; 
-    font-size: 24px;
-    padding-right: 40px;
+    font-size: 24px;  
+    color: black;
 }
 
+.nav-link:hover{
+    color: black;
+}
+
+#metiers{
+    padding-right: 450px;
+}
+
+/* FOOTER */
+
+.bg-footer{
+    background-color: black;
+}
+
+/* MEDIA QUERIES */
+
+@media (max-width: 994px){
+    #metiers{
+        padding-right: 0;
+    }
+}
 
