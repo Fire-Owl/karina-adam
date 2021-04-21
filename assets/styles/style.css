@@ -30,6 +30,15 @@
     padding-right: 450px;
 }
 
+
+
+/* ARTICLES */
+
+.titre{
+    text-align: center;
+    color: red;
+}
+
 /* FOOTER */
 
 .bg-footer{
