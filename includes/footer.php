@@ -1,4 +1,4 @@
-<div class="bg-footer text-white">
+<div class="git add bg-footer text-white">
    <div class="conteneur">
       <a class="link-color" href="">Contactez-nous</a>
       <a class="link-color" href="">Blog promo 68</a>
