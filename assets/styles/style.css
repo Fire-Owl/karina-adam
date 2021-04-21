@@ -1,0 +1,60 @@
+/* POLICES */
+
+    /* CIRCULAR STD BOOK */
+
+@import url(//db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book);
+
+@font-face {font-family: "Circular Std Book"; 
+            src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot"); 
+            src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); }
+
+
+/* NAVBAR */
+
+.logo{
+    width: 30%;
+	height: auto;
+}
+
+.nav-link{
+    font-family: "Circular Std Book"; 
+    font-size: 24px;  
+    color: black;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+#metiers{
+    padding-right: 450px;
+}
+
+/* FOOTER */
+
+.bg-footer{
+    background-color: black;
+    font-size: 20pt;
+}
+
+.link-color{
+    color: white!important;
+    text-decoration:none; 
+}
+
+.icons{
+    height: 43px;
+    width: 47px;
+}
+
+
+
+
+/* MEDIA QUERIES */
+
+@media (max-width: 994px){
+    #metiers{
+        padding-right: 0;
+    }
+}
+
