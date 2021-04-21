@@ -1,13 +1,18 @@
-<div class="bg-footer">
-   <a href="">Contactez-nous</a>
-   <a href="">Blog promo 68</a>
-   <a href="">Access Code School</a>
-   <a href="">Haut de page</a>
-   <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
-   <a href="">Mentions légales</a>
-   <img src="assets/images/Facebook.png" alt="logo facebook">
-   <img src="assets/images/insta.png" alt="logo instagram">
-   <img src="assets/images/twitter.png" alt="logo twitter"> 
+<div class="bg-footer text-white">
+   <div class="conteneur">
+      <a class="link-color" href="">Contactez-nous</a>
+      <a class="link-color" href="">Blog promo 68</a>
+      <a class="link-color" href="">Access Code School</a>
+      <a class="link-color" href="">Haut de page</a>
+   </div>   
+   
+   <div class="conteneur">
+      <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
+      <a class="link-color" href="">Mentions légales</a>
+      <img class="icons" src="assets/images/Facebook.png" alt="logo facebook">
+      <img class="icons" src="assets/images/insta.png" alt="logo instagram">
+      <img class="icons" src="assets/images/twitter.png" alt="logo twitter">
+   </div> 
 
 </div>
 
