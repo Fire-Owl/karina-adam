@@ -30,6 +30,9 @@
     padding-right: 450px;
 }
 
+/* BANNIERE */
+
+
 
 
 /* ARTICLES */
@@ -61,9 +64,11 @@
 
 /* MEDIA QUERIES */
 
-@media (max-width: 994px){
+/*@media (max-width: 994px){
     #metiers{
         padding-right: 0;
     }
 }
+
+ */
 

@@ -1,7 +1,1 @@
-<?php include 'includes/header.php' ; ?>
-
-
-
-
-
-<?php include 'includes/footer.php' ; ?>
+<?php header('Location: page/');?>
