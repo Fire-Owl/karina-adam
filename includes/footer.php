@@ -9,9 +9,9 @@
    <div class="conteneur">
       <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
       <a class="link-color" href="">Mentions légales</a>
-      <img class="icons" src="assets/images/Facebook.png" alt="logo facebook">
-      <img class="icons" src="assets/images/insta.png" alt="logo instagram">
-      <img class="icons" src="assets/images/twitter.png" alt="logo twitter">
+      <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
+      <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
+      <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
    </div> 
 </div>
 
