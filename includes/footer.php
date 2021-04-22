@@ -1,17 +1,30 @@
-<div class="git add bg-footer text-white">
-   <div class="conteneur">
-      <a class="link-color" href="">Contactez-nous</a>
-      <a class="link-color" href="">Blog promo 68</a>
-      <a class="link-color" href="">Access Code School</a>
-      <a class="link-color" href="">Haut de page</a>
-   </div>   
+<div class="container-fluid bg-footer text-white">
+   <div class="row">
+      <div class="col-lg-4">
+         <a class="link-color" href="">Contactez-nous</a>
+      </div>
+      <div class="col-lg-4">
+         <a class="link-color block" href="">Blog promo 68</a>
+         <a class="link-color block" href="">Access Code School</a>
+      </div>
+      <div class="col-lg-4">
+         <a class="link-color" href="">Haut de page</a>
+      </div>  
+   </div> 
+    
    
-   <div class="conteneur">
-      <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
-      <a class="link-color" href="">Mentions légales</a>
-      <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
-      <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
-      <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
+   <div class="row">
+      <div class="col-lg-4">
+         <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
+      </div>
+      <div class="col-lg-4">
+         <a class="link-color" href="">Mentions légales</a>
+      </div>      
+      <div class="col-lg-4">
+         <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
+         <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
+         <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
+      </div>
    </div> 
 </div>
 

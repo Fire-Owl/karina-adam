@@ -9,6 +9,15 @@
             src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); }
 
 
+
+    /* CIRCURAD STD MEDIUM */
+@import url(//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium);
+
+@font-face {font-family: "Circular Std Medium"; 
+    src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot"); 
+    src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff") format("woff"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.svg#Circular Std Medium") format("svg"); }
+
+
 /* NAVBAR */
 
 .logo{
@@ -26,14 +35,50 @@
     color: black;
 }
 
-#metiers{
+#metiersWeb{
     padding-right: 450px;
 }
 
 /* BANNIERE */
 
 .banniere{
-    background-image: url("images/banniere.png");
+   width: 100%;
+   height: auto;
+}
+
+.text-lg-left{
+    position: absolute;
+    bottom: -5%;
+    left: 30%;
+    color: white;
+    font-family: "Circular Std Medium";
+}
+
+#wfb{
+    font-size: 4.375em;
+}
+
+#web{
+    font-size:  2.5em; 
+}
+
+/* CARDS */
+
+
+h2{
+    font-size: 40px;
+    font-family:"Circular Std Medium";
+    padding-top: 50px ;
+}
+
+.images{
+    height: 100%;
+    width: 100% ;
+    border-radius: 30px;
+}
+
+.card{
+    border-radius: 30px!important; 
 }
 
 
@@ -49,6 +94,8 @@
 .bg-footer{
     background-color: black;
     font-size: 20pt;
+ 
+    
 }
 
 .link-color{
@@ -61,7 +108,9 @@
     width: 47px;
 }
 
-
+.block{
+    display: block;
+}
 
 
 /* MEDIA QUERIES */
