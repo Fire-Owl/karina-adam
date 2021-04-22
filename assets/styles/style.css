@@ -32,7 +32,9 @@
 
 /* BANNIERE */
 
-
+.banniere{
+    background-image: url("images/banniere.png");
+}
 
 
 /* ARTICLES */
