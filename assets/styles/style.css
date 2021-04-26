@@ -43,14 +43,15 @@
 
 .banniere{
    width: 100%;
-   height: auto;
-   background-image: url("../images/banniere.png");
+   height: 100vh;
+   background-size: cover;
+   background-image: url("../../assets/images/banniere.png");
 }
 
 .text-lg-left{
     position: absolute;
-    bottom: -5%;
-    left: 30%;
+    bottom: -10%;
+    left: 20%;
     color: white;
     font-family: "Circular Std Medium";
 }

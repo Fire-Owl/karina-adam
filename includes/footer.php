@@ -1,7 +1,7 @@
 <div class="container-fluid bg-footer text-white">
    <div class="row pt-4">
       <div class="col-lg-7">
-         <a class="link-color" href="">Contactez-nous</a>
+         <a class="link-color" href="contact.php">Contactez-nous</a>
       </div>
       <div class="col-lg-3">
          <a class="link-color block" href="https://promo-68.codeur.online/blog/">Blog promo 68</a>
@@ -18,7 +18,7 @@
          <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
       </div>
       <div class="col-lg-3">
-         <a class="link-color" href="">Mentions légales</a>
+         <a class="link-color" href="mentions.php">Mentions légales</a>
       </div>      
       <div class="col-lg-2">
          <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
