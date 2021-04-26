@@ -81,6 +81,29 @@ h2{
     border-radius: 30px!important; 
 }
 
+.bouton {
+   
+    margin-top: 10px;
+    margin-left: 1px;
+    padding: 0 30px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    font-size: 1rem;
+    text-align: right;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #0D6579;
+    border-color: #0D6579;
+    
+   
+}
+
+.bouton:hover {
+    background-color:white;
+    color: #0D6579;
+    border-color: #0D6579;
+    
+}
 
 /* ARTICLES */
 
