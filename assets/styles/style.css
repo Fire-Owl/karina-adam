@@ -37,6 +37,7 @@
 
 /* ARTICLES */
 
+
 .titre{
     text-align: center;
     color: red;
@@ -67,8 +68,9 @@ transform: skew(-87deg);
 z-index: -1;
 }
 .photo{
-height: 400px;
-width: 767px;
+max-height: 400px;
+width: 100%;
+height: auto;
 }
 .h1-blue{
     color: white;
@@ -88,6 +90,40 @@ width: 767px;
 .pre{
     margin-top: 80px;
 }
+.photo_outils{
+    margin-left: 320px;
+    width: auto;
+    height: 300px;
+    margin-bottom: 70px;
+}
+.cube{
+    margin-left: 400px;
+    width: auto;
+    height: 300px;
+    margin-bottom: 70px;
+}
+.titre5{
+    margin-bottom: 200px;
+}
+.titrecm{
+    margin-bottom: 200px;
+    margin-top: 80px;
+
+}
+.titrecm1{
+    margin-top: 80px;
+}
+.titrecry{
+    margin-top: 80px;
+
+}
+
+.titrecry10{
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+
 
 /* FOOTER */
 
