@@ -12,7 +12,7 @@
     <link href="//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg">
+    <nav class="navbar navbar-expand-lg" id="haut">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img class="logo" src="../assets/images/logo.png" alt="logo web for beginner"> 

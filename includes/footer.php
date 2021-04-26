@@ -4,11 +4,11 @@
          <a class="link-color" href="">Contactez-nous</a>
       </div>
       <div class="col-lg-3">
-         <a class="link-color block" href="">Blog promo 68</a>
-         <a class="link-color block" href="">Access Code School</a>
+         <a class="link-color block" href="https://promo-68.codeur.online/blog/">Blog promo 68</a>
+         <a class="link-color block" href="https://www.accesscodeschool.fr/">Access Code School</a>
       </div>
       <div class="col-lg-2">
-         <a class="link-color" href="">Haut de page</a>
+         <a class="link-color" href="#haut">Haut de page</a>
       </div>  
    </div> 
     
