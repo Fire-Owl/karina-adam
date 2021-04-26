@@ -44,6 +44,7 @@
 .banniere{
    width: 100%;
    height: auto;
+   background-image: url("../images/banniere.png");
 }
 
 .text-lg-left{

@@ -2,8 +2,8 @@
 
 
 <!-- BANNIERE -->
-<div>
-    <img  class="banniere" src="../assets/images/banniere.png" alt="banniere">
+
+<div class="banniere"> 
     <div class="text-lg-left">
         <h1 id="wfb"> Web For Beginner</h1>
         <p id="web">  Découvrez les métier du web</p>
