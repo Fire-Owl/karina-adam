@@ -1,17 +1,30 @@
-<div class="git add bg-footer text-white">
-   <div class="conteneur">
-      <a class="link-color" href="">Contactez-nous</a>
-      <a class="link-color" href="">Blog promo 68</a>
-      <a class="link-color" href="">Access Code School</a>
-      <a class="link-color" href="">Haut de page</a>
-   </div>   
+<div class="container-fluid bg-footer text-white">
+   <div class="row pt-4">
+      <div class="col-lg-7">
+         <a class="link-color" href="contact.php">Contactez-nous</a>
+      </div>
+      <div class="col-lg-3">
+         <a class="link-color block" href="https://promo-68.codeur.online/blog/">Blog promo 68</a>
+         <a class="link-color block" href="https://www.accesscodeschool.fr/">Access Code School</a>
+      </div>
+      <div class="col-lg-2">
+         <a class="link-color" href="#haut">Haut de page</a>
+      </div>  
+   </div> 
+    
    
-   <div class="conteneur">
-      <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
-      <a class="link-color" href="">Mentions légales</a>
-      <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
-      <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
-      <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
+   <div class="row mt-5">
+      <div class="col-lg-7">
+         <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
+      </div>
+      <div class="col-lg-3">
+         <a class="link-color" href="mentions.php">Mentions légales</a>
+      </div>      
+      <div class="col-lg-2">
+         <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
+         <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
+         <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
+      </div>
    </div> 
 </div>
 
