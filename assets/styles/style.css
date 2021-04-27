@@ -109,10 +109,107 @@ h2{
 
 /* ARTICLES */
 
+
 .titre{
     text-align: center;
     color: red;
 }
+.zoneblue {
+background: #56AFC1; 
+}
+.zoneblue2 {
+position: relative;
+padding: 1em 5em 1em 1em;
+overflow: hidden;
+color: #56AFC1;
+height: 100px;
+}
+.zoneblue2:after {
+content: "";
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: #56AFC1;
+
+transform-origin: 100% 0;
+-webkit-transform: skew(-87deg);
+-ms-transform: skew(-87deg);
+transform: skew(-87deg);
+z-index: -1;
+}
+.photo{
+max-height: 400px;
+width: 100%;
+height: auto;
+}
+.h1-blue{
+    color: white;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.evo{
+    margin-bottom: 200px;
+    margin-top: 80px;
+}
+.role{
+    margin-top: 90px;
+}
+.pre{
+    margin-top: 80px;
+}
+.photo_outils{
+    margin-left: 320px;
+    width: auto;
+    height: 300px;
+    margin-bottom: 70px;
+}
+.cube{
+    margin-left: 400px;
+    width: auto;
+    height: 300px;
+    margin-bottom: 70px;
+}
+.titre5{
+    margin-bottom: 200px;
+}
+.titrecm{
+    margin-bottom: 200px;
+    margin-top: 80px;
+
+}
+.titrecm1{
+    margin-top: 80px;
+}
+.titrecry{
+    margin-top: 80px;
+
+}
+
+.titrecry10{
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+.langage {
+    margin-top: 80px;
+}
+.langage1 {
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+.agence {
+    margin-top: 80px;
+}
+.agence1 {
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+
 
 
 /* PAGE CONTACT*/
