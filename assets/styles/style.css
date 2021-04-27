@@ -114,6 +114,49 @@ h2{
     color: red;
 }
 
+
+/* PAGE CONTACT*/
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #91D1D3; 
+    font-family: "Circular Std Book"; 
+    font-weight: bold;
+}
+
+form{
+    padding: 30px;
+}
+
+form h1{
+    font-size: 30px;
+}
+
+.separation{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.corps-formulaire{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.groupe{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+form .corps-formulaire .gauche .groupe input{
+
+    margin-top: 5px ;
+}
+
+
 /* FOOTER */
 
 .bg-footer{
