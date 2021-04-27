@@ -39,7 +39,7 @@
                     <div class="droite">
                         <div class="groupe">
                             <label>Message</label>
-                            <textarea></textarea>
+                            <textarea placeholder="Saisissez ici"></textarea>
                         </div>
                     </div>   
         
