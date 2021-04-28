@@ -94,7 +94,8 @@ h2{
     text-align: right;
     color: #fff;
     border-radius: 20px;
-    background-color: #0D6579;
+    background-color: #0D6579;               
+    border: #0D6579 solid 1px;
     border-color: #0D6579;
     
    
@@ -293,17 +294,52 @@ form .pied-formulaire button{
     border-radius: 15px;
     padding: 4px 4px;
     cursor: pointer;
+    border: none;
 }
 
 textarea{
  
     border-radius: 50px;
+    padding-left: 50px!important; 
 }
 
+textarea::-webkit-input-placeholder { /* Google Chrome */
+    padding-left: 50px!important; 
+    padding-top: 5px;
+  }
+  
+textarea:-moz-placeholder { /* Firefox 18- */
+    padding-left: 50px!important;  
+    padding-top: 5px;
+}
+
+textarea::-moz-placeholder {  /* Firefox 19+ */
+    padding-left: 50px!important; 
+    padding-top: 5px;
+}
+
+textarea:-ms-input-placeholder {
+    padding-left: 50px!important; 
+    padding-top: 5px;
+}
+
+textarea::placeholder {
+    padding-left: 50px!important;
+    padding-top: 5px;
+}   
 
 textarea::-moz-placeholder{
-    margin-left: 50px;
+    padding-left: 50px!important;
+    padding-top: 5px;
 }
+
+textarea::-webkit-input-placeholder{
+    padding-left: 50px!important;
+    padding-top: 5px;
+}
+
+
+
 
 
 
