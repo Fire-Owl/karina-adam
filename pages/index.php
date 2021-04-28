@@ -17,7 +17,7 @@
         <h2 id="metiers">Les métiers du web</h2>
     </div>  
     <div class="row">
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-7 border">
@@ -34,7 +34,7 @@
             </div>
         </div>
         
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-7">
@@ -51,7 +51,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-7">
@@ -77,7 +77,7 @@
         <h2 id="univers">L'univers du web</h2>
     </div>
     <div class="row">
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-7">
@@ -94,7 +94,7 @@
             </div>
         </div>
         
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0">
                         <div class="col-md-7">
@@ -111,7 +111,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-12 col-sm-12">
+        <div class="col-lg-4 ">
             <div class="card mb-3" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-7">
