@@ -281,6 +281,7 @@ form .corps-formulaire .droite .groupe .textarea{
     background-color: #f8f8f8 ;
     resize: none;
     height: 72%;
+    border-radius: 50px;
   
 }
 
@@ -292,6 +293,16 @@ form .pied-formulaire button{
     border-radius: 15px;
     padding: 4px 4px;
     cursor: pointer;
+}
+
+textarea{
+ 
+    border-radius: 50px;
+}
+
+
+textarea::-moz-placeholder{
+    margin-left: 50px;
 }
 
 
@@ -331,3 +342,5 @@ form .pied-formulaire button{
  */
 
 
+
+    
