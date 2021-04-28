@@ -44,7 +44,8 @@
 .banniere{
    width: 100%;
    height: 100vh;
-   background-size: cover;
+   background-size: 100%;
+   background-repeat: no-repeat;
    background-image: url("../../assets/images/banniere.png");
 }
 
@@ -374,8 +375,13 @@ textarea::-webkit-input-placeholder{
     }
 }
 
- 
-
+@media (max-width: 1319px){
+    .text-lg-left{
+        bottom: -10%;
+        left: 20%;
+    }
+    
+}
 
 
     
