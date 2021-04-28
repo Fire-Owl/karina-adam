@@ -215,12 +215,13 @@ height: auto;
 
 /* PAGE CONTACT*/
 
-body{
+.contact{
     margin: 0px;
     padding: 0px;
     background-color: #91D1D3; 
     font-family: "Circular Std Book"; 
     font-weight: bold;
+    min-height: 700px;
 }
 
 form{
@@ -298,7 +299,7 @@ form .pied-formulaire button{
 }
 
 textarea{
- 
+    resize: none;
     border-radius: 50px;
     padding-left: 50px!important; 
 }
@@ -348,8 +349,6 @@ textarea::-webkit-input-placeholder{
 .bg-footer{
     background-color: black;
     font-size: 20pt;
- 
-    
 }
 
 .link-color{
@@ -369,13 +368,13 @@ textarea::-webkit-input-placeholder{
 
 /* MEDIA QUERIES */
 
-/*@media (max-width: 994px){
-    #metiers{
-        padding-right: 0;
+@media (max-width: 694px){
+    form .corps-formulaire .droite{
+        margin-left: 0;
     }
 }
 
- */
+ 
 
 
 
