@@ -27,7 +27,7 @@
                         <div class="card-body">
                             <h5 class="card-title mt-4 text-uppercase">Web designer</h5>
                             <p class="card-text mt-3">Le webdesigner est un de ces métiers qui n’existaient pas il y a 20 ans.</p>
-                            <button class="bouton mb-4" type="button"> Lire l'article</button>
+                            <a href="../pages/article1.php"><button class="bouton mb-4" type="button"> Lire l'article</button></a>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                             <div class="card-body">
                                 <h5 class="card-title mt-4 text-uppercase">Graphiste</h5>
                                 <p class="card-text mt-3">Le graphiste est un spécialiste de la communication, il élabore l’univers graphique d’un produit, d’une entreprise..</p>
-                                <button class="bouton  mb-4" type="button"> Lire l'article</button>
+                                <a href="../pages/article2.php"><button class="bouton  mb-4" type="button"> Lire l'article</button></a>
                             </div>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                         <div class="card-body">
                             <h5 class="card-title mt-4 text-uppercase">Community manager</h5>
                             <p class="card-text mt-3">Le community manager est une personne qui possède plusieurs casquette.</p>
-                            <button class="bouton  mb-4" type="button"> Lire l'article</button>
+                            <a href="../pages/article3.php"><button class="bouton  mb-4" type="button"> Lire l'article</button></a>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         <div class="card-body">
                             <h5 class="card-title mt-4 text-uppercase">La cryptographie</h5>
                             <p class="card-text mt-3">La cryptographie regroupe les disciplines ayant pour but de rechercher des moyens d’assurer la protection de données.</p>
-                            <button class="bouton  mb-4" type="button"> Lire l'article</button>
+                            <a href="../pages/article4.php"><button class="bouton  mb-4" type="button"> Lire l'article</button></a>
                         </div>
                     </div>
                 </div>
@@ -104,7 +104,7 @@
                             <div class="card-body">
                                 <h5 class="card-title mt-4 text-uppercase">Les agences de communication</h5>
                                 <p class="card-text mt-3">Dans ce vaste panel d’entreprises et d’organisations, penchons-nous sur le cas des agences de communication :</p>
-                                <button class="bouton mb-4" type="button"> Lire l'article</button>  
+                                <a href="../pages/article6.php"><button class="bouton mb-4" type="button"> Lire l'article</button></a>  
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@
                         <div class="card-body">
                             <h5 class="card-title mt-4 text-uppercase"> La popularité des langages</h5>
                             <p class="card-text mt-3">Quand on s’intéresse de près au développement informatique. Pas facile de s’y retrouver dans toutes ces technologies..</p>
-                            <button class="bouton  mb-4" type="button"> Lire l'article</button>  
+                            <a href="../pages/article5.php"><button class="bouton  mb-4" type="button"> Lire l'article</button></a>  
                         </div>
                     </div>
                 </div>

@@ -26,9 +26,9 @@
     </p>
     </div>
     
-    <div class ="pre">
-        <img src="../assets/images/outils.jpg" alt="outils" class="photo_outils">
-    <h1>Ces outils de créations sont:<br><br></h1>
+    <div class ="pre1">
+        <img src="../assets/images/outils.jpg" alt="outils" class="photo_pre">
+    <h1 class = "titre_outils">Ces outils de créations sont:<br><br></h1>
     <ul>
         <li>un écran de pc</li>
         <li>le nuancier pantone (palette de couleurs)</li>
@@ -41,8 +41,8 @@
     </div>
     
     <div class ="titre3">
-        <img src="../assets/images/cube.png" alt="cube" class="cube">
-        <h1>Les sept étapes de réalisations d’un projet: <br><br></h1>
+        <img src="../assets/images/cube.png" alt="cube" class="photo_cube">
+        <h1 class = "etapes">Les sept étapes de réalisations d’un projet: <br><br></h1>
         <ul>
             <li>Afin de s’acquitter de ses tâches, le graphiste a besoin d’un plan, et avoir un contrôle sur l’aspect créatif pour éviter qu’ils partent dans tous les sens.</li>
             <li>La collecte d’informations tient une place aussi très importante, la prise de note et de renseignements sont nécessaires à la bonne marche.</li>

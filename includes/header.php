@@ -14,18 +14,18 @@
 <body>
     <nav class="navbar navbar-expand-lg" id="haut">
         <div class="container-fluid">
-            <a class="navbar-brand" href="http://localhost/projet-karina-adam/pages/">
+            <a class="navbar-brand" href="pages/">
                 <img class="logo" src="../assets/images/logo.png" alt="logo web for beginner"> 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="fas fa-bars fa-2x"></i></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="collapse navbar-collapse " id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item">
+                    <li class="nav-item me-5">
                         <a class="nav-link" aria-current="page" href="#metiers" id="metiersWeb">Les métiers du web</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item me-5">
                         <a class="nav-link" href="#univers">L'univers du web</a>
                     </li>
                 </ul>
