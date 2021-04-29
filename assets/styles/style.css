@@ -53,7 +53,7 @@
 
 .text-lg-left{
     position: absolute;
-    bottom: -10%;
+    bottom: 10%;
     left: 20%;
     color: white;
     font-family: "Circular Std Medium";
@@ -245,7 +245,6 @@ text-align: center;
 .contact{
     margin: 0px;
     padding: 0px;
-    background-color: #91D1D3; 
     font-family: "Circular Std Book"; 
     font-weight: bold;
     min-height: 800px;
@@ -259,16 +258,11 @@ form h1{
     font-size: 30px;
 }
 
-.separation{
-    width: 100%;
-    height: 1px;
-    background-color: black;
-}
 
 .corps-formulaire{
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 30px;
+    margin-bottom: 30px; ;
 }
 
 .groupe{
@@ -317,7 +311,7 @@ form .corps-formulaire .droite .groupe .textarea{
 form .pied-formulaire button{
 
     margin-top: 10px;
-    background-color: #0D6579;
+    background-color: #56AFC1;
     color: white;
     border-radius: 15px;
     padding: 4px 4px;
@@ -334,42 +328,51 @@ textarea{
 textarea::-webkit-input-placeholder { /* Google Chrome */
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
   }
   
 textarea:-moz-placeholder { /* Firefox 18- */
     padding-left: 50px!important;  
     padding-top: 5px;
+    color: white;
 }
 
 textarea::-moz-placeholder {  /* Firefox 19+ */
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
 }
 
 textarea:-ms-input-placeholder {
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
 }
 
 textarea::placeholder {
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }   
 
 textarea::-moz-placeholder{
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }
 
 textarea::-webkit-input-placeholder{
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }
-
-
-
-
-
+textarea{
+    border: 3px solid #56AFC1;
+    background-color: #56AFC1;
+}
+.inpu{
+    background-color: #56AFC1;
+}
 
 /* FOOTER */
 
