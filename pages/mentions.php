@@ -46,7 +46,7 @@
     </div>
     <div class="cred1">
     <h1>Information relatives à l'hébergement <br><br></h1>
-    <p>’hébergement du site est assuré par la société Onlineformapro SA, société au capital de 1 100 000 € dont le siège est situé Espace de la Motte, 70000 VESOUL inscrite au Registre du Commerce et des Sociétés de VESOUL-GRAY sous le n° SIREN 424780336. La mise en ligne a été effectué via FileZilla et la base de données a été importé sur Adminer.</p>
+    <p>hébergement du site est assuré par la société Onlineformapro SA, société au capital de 1 100 000 € dont le siège est situé Espace de la Motte, 70000 VESOUL inscrite au Registre du Commerce et des Sociétés de VESOUL-GRAY sous le n° SIREN 424780336. La mise en ligne a été effectué via FileZilla et la base de données a été importé sur Adminer.</p>
     </div>
 
 
