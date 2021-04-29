@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-lg" id="haut">
         <div class="container-fluid">
             <a class="navbar-brand" href="pages/">
-                <img class="logo" src="../assets/images/logo.png" alt="logo web for beginner"> 
+                <img class="logo" src="../assets/images/logo.jpg" alt="logo web for beginner"> 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="fas fa-bars fa-2x"></i></span>
