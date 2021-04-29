@@ -47,6 +47,7 @@
    width: 100%;
    height: 100vh;
    background-size: cover;
+   background-repeat: no-repeat;
    background-image: url("../../assets/images/banniere.png");
 }
 
@@ -96,7 +97,8 @@ h2{
     text-align: right;
     color: #fff;
     border-radius: 20px;
-    background-color: #0D6579;
+    background-color: #0D6579;               
+    border: #0D6579 solid 1px;
     border-color: #0D6579;
     
    
@@ -235,12 +237,13 @@ text-align: center;
 
 /* PAGE CONTACT*/
 
-body{
+.contact{
     margin: 0px;
     padding: 0px;
     background-color: #91D1D3; 
     font-family: "Circular Std Book"; 
     font-weight: bold;
+    min-height: 700px;
 }
 
 form{
@@ -264,6 +267,7 @@ form h1{
 }
 
 .groupe{
+    position: relative;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
@@ -272,7 +276,94 @@ form h1{
 form .corps-formulaire .gauche .groupe input{
 
     margin-top: 5px ;
+    padding: 10px 5px 10px 30px;
+    border: 1px solid white;
+    border-radius: 50px;
 }
+
+form .corps-formulaire .gauche .groupe i{
+    position: absolute;
+    left: 0px;
+    top: 35px;
+    padding: 9px 8px;
+}
+
+form .corps-formulaire .droite{
+
+    margin-left: 40px;
+}
+
+form .corps-formulaire .droite .groupe{
+
+    height: 100%;
+}
+
+form .corps-formulaire .droite .groupe .textarea{
+
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #f8f8f8 ;
+    resize: none;
+    height: 72%;
+    border-radius: 50px;
+  
+}
+
+form .pied-formulaire button{
+
+    margin-top: 10px;
+    background-color: #0D6579;
+    color: white;
+    border-radius: 15px;
+    padding: 4px 4px;
+    cursor: pointer;
+    border: none;
+}
+
+textarea{
+    resize: none;
+    border-radius: 50px;
+    padding-left: 50px!important; 
+}
+
+textarea::-webkit-input-placeholder { /* Google Chrome */
+    padding-left: 50px!important; 
+    padding-top: 5px;
+  }
+  
+textarea:-moz-placeholder { /* Firefox 18- */
+    padding-left: 50px!important;  
+    padding-top: 5px;
+}
+
+textarea::-moz-placeholder {  /* Firefox 19+ */
+    padding-left: 50px!important; 
+    padding-top: 5px;
+}
+
+textarea:-ms-input-placeholder {
+    padding-left: 50px!important; 
+    padding-top: 5px;
+}
+
+textarea::placeholder {
+    padding-left: 50px!important;
+    padding-top: 5px;
+}   
+
+textarea::-moz-placeholder{
+    padding-left: 50px!important;
+    padding-top: 5px;
+}
+
+textarea::-webkit-input-placeholder{
+    padding-left: 50px!important;
+    padding-top: 5px;
+}
+
+
+
+
 
 
 /* FOOTER */
@@ -280,8 +371,6 @@ form .corps-formulaire .gauche .groupe input{
 .bg-footer{
     background-color: black;
     font-size: 20pt;
- 
-    
 }
 
 .link-color{
@@ -327,11 +416,20 @@ form .corps-formulaire .gauche .groupe input{
 
 /* MEDIA QUERIES */
 
-/*@media (max-width: 994px){
-    #metiers{
-        padding-right: 0;
+@media (max-width: 694px){
+    form .corps-formulaire .droite{
+        margin-left: 0;
     }
 }
 
- */
+@media (max-width: 1319px){
+    .text-lg-left{
+        bottom: -10%;
+        left: 20%;
+    }
+    
+}
 
+
+
+    
