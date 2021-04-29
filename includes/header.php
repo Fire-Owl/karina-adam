@@ -10,12 +10,14 @@
     <link rel="icon" type="image/png" href="../assets/images/logo.png" />  
     <link href="//db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book" rel="stylesheet" type="text/css"/>
     <link href="//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+
 </head>
 <body>
     <nav class="navbar navbar-expand-lg" id="haut">
         <div class="container-fluid">
             <a class="navbar-brand" href="pages/">
-                <img class="logo" src="../assets/images/logo.png" alt="logo web for beginner"> 
+                <img class="logo" src="../assets/images/logo.jpg" alt="logo web for beginner"> 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span><i class="fas fa-bars fa-2x"></i></span>
