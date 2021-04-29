@@ -4,8 +4,8 @@
          <a class="link-color" href="contact.php">Contactez-nous</a>
       </div>
       <div class="col-lg-3">
-         <a class="link-color block" href="https://promo-68.codeur.online/blog/">Blog promo 68</a>
-         <a class="link-color block" href="https://www.accesscodeschool.fr/">Access Code School</a>
+         <a class="link-color block" href="https://promo-68.codeur.online/blog/" target="_blank">Blog promo 68</a>
+         <a class="link-color block" href="https://www.accesscodeschool.fr/" target="_blank">Access Code School</a>
       </div>
       <div class="col-lg-2">
          <a class="link-color" href="#haut">Haut de page</a>
@@ -21,9 +21,9 @@
          <a class="link-color" href="../pages/mentions.php">Mentions légales</a>
       </div>      
       <div class="col-lg-2">
-         <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
-         <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
-         <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
+        <a href=" https://www.facebook.com/" target="_blank"><img class="icons" src="../assets/images/Facebook.png" alt="logo facebook"></a>
+         <a href="https://www.instagram.com/" target="_blank"><img class="icons" src="../assets/images/insta.png" alt="logo instagram"></a>
+         <a href="https://www.twitter.com/" target="_blank"><img class="icons" src="../assets/images/twitter.png" alt="logo twitter"></a>
       </div>
    </div> 
 </div>

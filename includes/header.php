@@ -16,7 +16,7 @@
 <body>
     <nav class="navbar navbar-expand-lg" id="haut">
         <div class="container-fluid">
-            <a class="navbar-brand" href="pages/">
+            <a class="navbar-brand" href="http://localhost/projet-karina-adam/pages/">
                 <img class="logo" src="../assets/images/logo.png" alt="logo web for beginner"> 
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
