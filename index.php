@@ -1,6 +1,8 @@
 
 
 
+
 <?php header('Location: pages/');?>
+
 
 

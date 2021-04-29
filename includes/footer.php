@@ -4,8 +4,8 @@
          <a class="link-color" href="contact.php">Contactez-nous</a>
       </div>
       <div class="col-lg-3">
-         <a class="link-color block" href="https://promo-68.codeur.online/blog/">Blog promo 68</a>
-         <a class="link-color block" href="https://www.accesscodeschool.fr/">Access Code School</a>
+         <a class="link-color block" href="https://promo-68.codeur.online/blog/" target="_blank">Blog promo 68</a>
+         <a class="link-color block" href="https://www.accesscodeschool.fr/" target="_blank">Access Code School</a>
       </div>
       <div class="col-lg-2">
          <a class="link-color" href="#haut">Haut de page</a>
