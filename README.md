@@ -4,5 +4,5 @@ Intégration d'une maquette réalisée pour développer un site statique de notr
 
 # Maquette du site 
 
- <img src="assets/design/maquette-landingpage-desktop.png" alt="maquette site">
+ <img src="design/maquette-landingpage-desktop.png" alt="maquette site">
 
