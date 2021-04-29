@@ -325,39 +325,47 @@ textarea{
 textarea::-webkit-input-placeholder { /* Google Chrome */
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
   }
   
 textarea:-moz-placeholder { /* Firefox 18- */
     padding-left: 50px!important;  
     padding-top: 5px;
+    color: white;
 }
 
 textarea::-moz-placeholder {  /* Firefox 19+ */
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
 }
 
 textarea:-ms-input-placeholder {
     padding-left: 50px!important; 
     padding-top: 5px;
+    color: white;
 }
 
 textarea::placeholder {
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }   
 
 textarea::-moz-placeholder{
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }
 
 textarea::-webkit-input-placeholder{
     padding-left: 50px!important;
     padding-top: 5px;
+    color: white;
 }
 textarea{
     border: 3px solid #56AFC1;
+    background-color: #56AFC1;
 }
 .inpu{
     background-color: #56AFC1;

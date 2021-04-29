@@ -8,7 +8,7 @@
 <div class="row">
 <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-left-opacity100.png" alt="" class="back-img blueleft"></div>
 <div class="col-md-6 col-sm-10 border-ad">
-<h1 class="h1-blue">Contactez nous</h1>
+<h1 class="h1-blue">Contactez-nous</h1>
 </div>
 <div class="col-md-3 col-sm-1 border-ad centerback"><img src="pictures/img-blue-right-opacity100.png" alt="" class="back-img blueright"></div>
 </div>
