@@ -9,10 +9,19 @@
             src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); }
 
 
+
+    /* CIRCURAD STD MEDIUM */
+@import url(//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium);
+
+@font-face {font-family: "Circular Std Medium"; 
+    src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot"); 
+    src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff") format("woff"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.svg#Circular Std Medium") format("svg"); }
+
+
 /* NAVBAR */
 
 .logo{
-    width: 30%;
+    width: 120px;
 	height: auto;
 }
 
@@ -25,15 +34,80 @@
 .nav-link:hover{
     color: black;
 }
-
-#metiers{
-    padding-right: 450px;
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
 }
+
 
 /* BANNIERE */
 
+.banniere{
+   width: 100%;
+   height: 100vh;
+   background-size: cover;
+   background-image: url("../../assets/images/banniere.png");
+}
+
+.text-lg-left{
+    position: absolute;
+    bottom: -10%;
+    left: 20%;
+    color: white;
+    font-family: "Circular Std Medium";
+}
+
+#wfb{
+    font-size: 4.375em;
+}
+
+#web{
+    font-size:  2.5em; 
+}
+
+/* CARDS */
 
 
+h2{
+    font-size: 40px;
+    font-family:"Circular Std Medium";
+    padding-top: 50px ;
+}
+
+.images{
+    height: 100%;
+    width: 100% ;
+    border-radius: 30px;
+}
+
+.card{
+    border-radius: 30px!important; 
+}
+
+.bouton {
+   
+    margin-top: 10px;
+    margin-left: 1px;
+    padding: 0 30px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    font-size: 1rem;
+    text-align: right;
+    color: #fff;
+    border-radius: 20px;
+    background-color: #0D6579;
+    border-color: #0D6579;
+    
+   
+}
+
+.bouton:hover {
+    background-color:white;
+    color: #0D6579;
+    border-color: #0D6579;
+    
+}
 
 /* ARTICLES */
 
@@ -68,9 +142,40 @@ transform: skew(-87deg);
 z-index: -1;
 }
 .photo{
+display: flex;
+flex-direction: row;
 max-height: 400px;
 width: 100%;
 height: auto;
+align-items: center;
+text-align: center;
+}
+.photo_pre{
+display: flex;
+max-height: 400px;
+width: 50%;
+height: auto;
+align-items: center;
+text-align: center;
+
+}
+.photo_cube{
+    display: flex;
+    max-height: 400px;
+    width: 30%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+}
+.titre_outils{
+    margin-top: 80px;
+}
+.etapes{
+    margin-top: 80px; 
+}
+.pre1{
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .h1-blue{
     color: white;
@@ -89,18 +194,6 @@ height: auto;
 }
 .pre{
     margin-top: 80px;
-}
-.photo_outils{
-    margin-left: 320px;
-    width: auto;
-    height: 300px;
-    margin-bottom: 70px;
-}
-.cube{
-    margin-left: 400px;
-    width: auto;
-    height: 300px;
-    margin-bottom: 70px;
 }
 .titre5{
     margin-bottom: 200px;
@@ -139,11 +232,56 @@ height: auto;
 
 
 
+
+/* PAGE CONTACT*/
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #91D1D3; 
+    font-family: "Circular Std Book"; 
+    font-weight: bold;
+}
+
+form{
+    padding: 30px;
+}
+
+form h1{
+    font-size: 30px;
+}
+
+.separation{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.corps-formulaire{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.groupe{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+form .corps-formulaire .gauche .groupe input{
+
+    margin-top: 5px ;
+}
+
+
 /* FOOTER */
 
 .bg-footer{
     background-color: black;
     font-size: 20pt;
+ 
+    
 }
 
 .link-color{
@@ -155,6 +293,34 @@ height: auto;
     height: 43px;
     width: 47px;
 }
+
+.block{
+    display: block;
+}
+.text-white{
+    font-size: 15px;
+}
+
+
+/* MENTION LEGALES */
+
+.cred{
+    margin-top: 80px;
+}
+
+.cred1{
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+.photo_cred{
+    display: flex;
+    flex-direction: row;
+    max-height: 400px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+    }
 
 
 
