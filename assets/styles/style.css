@@ -418,7 +418,9 @@ textarea{
     align-items: center;
     text-align: center;
     }
-
+.icon{
+    margin-bottom: 30px;
+}
 
 
 
@@ -437,7 +439,13 @@ textarea{
     }
     
 }
-
+@media (max-width: 600px){
+    .text-lg-left{
+        bottom: -10%;
+        left: 20%;
+        margin-right: 30px;
+    }
+}
 
 
     

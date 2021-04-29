@@ -20,10 +20,10 @@
       <div class="col-lg-3">
          <a class="link-color" href="../pages/mentions.php">Mentions légales</a>
       </div>      
-      <div class="col-lg-2">
-        <a href=" https://www.facebook.com/" target="_blank"><img class="icons" src="../assets/images/Facebook.png" alt="logo facebook"></a>
-         <a href="https://www.instagram.com/" target="_blank"><img class="icons" src="../assets/images/insta.png" alt="logo instagram"></a>
-         <a href="https://www.twitter.com/" target="_blank"><img class="icons" src="../assets/images/twitter.png" alt="logo twitter"></a>
+      <div class="col-lg-2 icon">
+         <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
+         <img class="icons" src="../assets/images/insta.png" alt="logo instagram">
+         <img class="icons" src="../assets/images/twitter.png" alt="logo twitter">
       </div>
    </div> 
 </div>
