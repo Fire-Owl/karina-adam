@@ -21,7 +21,7 @@
 /* NAVBAR */
 
 .logo{
-    width: 30%;
+    width: 120px;
 	height: auto;
 }
 
@@ -34,10 +34,12 @@
 .nav-link:hover{
     color: black;
 }
-
-#metiersWeb{
-    padding-right: 450px;
+.navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
 }
+
 
 /* BANNIERE */
 
@@ -142,9 +144,40 @@ transform: skew(-87deg);
 z-index: -1;
 }
 .photo{
+display: flex;
+flex-direction: row;
 max-height: 400px;
 width: 100%;
 height: auto;
+align-items: center;
+text-align: center;
+}
+.photo_pre{
+display: flex;
+max-height: 400px;
+width: 50%;
+height: auto;
+align-items: center;
+text-align: center;
+
+}
+.photo_cube{
+    display: flex;
+    max-height: 400px;
+    width: 30%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+}
+.titre_outils{
+    margin-top: 80px;
+}
+.etapes{
+    margin-top: 80px; 
+}
+.pre1{
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .h1-blue{
     color: white;
@@ -163,18 +196,6 @@ height: auto;
 }
 .pre{
     margin-top: 80px;
-}
-.photo_outils{
-    margin-left: 320px;
-    width: auto;
-    height: 300px;
-    margin-bottom: 70px;
-}
-.cube{
-    margin-left: 400px;
-    width: auto;
-    height: 300px;
-    margin-bottom: 70px;
 }
 .titre5{
     margin-bottom: 200px;
@@ -365,6 +386,32 @@ textarea::-webkit-input-placeholder{
 .block{
     display: block;
 }
+.text-white{
+    font-size: 15px;
+}
+
+
+/* MENTION LEGALES */
+
+.cred{
+    margin-top: 80px;
+}
+
+.cred1{
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+.photo_cred{
+    display: flex;
+    flex-direction: row;
+    max-height: 400px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+    }
+
+
 
 
 /* MEDIA QUERIES */

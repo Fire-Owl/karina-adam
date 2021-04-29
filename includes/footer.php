@@ -18,7 +18,7 @@
          <p>Copyright @ 2021 Web For beginner - Tous droits réservés </p>
       </div>
       <div class="col-lg-3">
-         <a class="link-color" href="mentions.php">Mentions légales</a>
+         <a class="link-color" href="../pages/mentions.php">Mentions légales</a>
       </div>      
       <div class="col-lg-2">
          <img class="icons" src="../assets/images/Facebook.png" alt="logo facebook">
